@@ -10,7 +10,7 @@
  */
 
 
-#include"inputlib.h"
+#include"smartpinns.h"
 
 int start = 3;
 int stopp = 13;

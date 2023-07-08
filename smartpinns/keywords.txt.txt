@@ -1,0 +1,7 @@
+out	KEYWORD1
+in	KEYWORD1
+in_pl	KEYWORD1
+
+getPin	KEYWORD3
+readPin	KEYWORD3
+readPin_pl	KEYWORD3
